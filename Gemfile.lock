@@ -206,6 +206,7 @@ DEPENDENCIES
   rails_12factor
   rspec-rails
   sass-rails (~> 5.0)
+  gem 'pg', '~> 0.21'
   themoviedb
   tzinfo
   tzinfo-data
