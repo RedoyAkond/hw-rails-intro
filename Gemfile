@@ -1,5 +1,4 @@
-#source 'https://rubygems.org'
-gem "mygem", source: "https://gems.contribsys.com"
+source 'https://rubygems.org'
 
 ruby '2.6.6'
 
