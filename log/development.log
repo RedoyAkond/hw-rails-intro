@@ -5508,3 +5508,4 @@ Processing by MoviesController#index as HTML
   Rendered movies/index.html.erb within layouts/application (3.1ms)
   Rendered layouts/_flash.erb (0.1ms)
 Completed 200 OK in 25ms (Views: 20.8ms | ActiveRecord: 1.4ms)
+DEPRECATION WARNING: Passing a string to ActiveRecord::Base.establish_connection for a configuration lookup is deprecated, please pass a symbol (:postgresql) instead. (called from mon_synchronize at /home/ubuntu/.rvm/rubies/ruby-2.6.6/lib/ruby/2.6.0/monitor.rb:235)
